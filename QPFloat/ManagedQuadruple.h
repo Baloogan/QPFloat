@@ -414,7 +414,7 @@ namespace System
 			return v.IsSigned ? -1 : 1;
 		}
 
-		virtual int CompareTo(Quadruple x) override;	//	AK
+		virtual int CompareTo(Quadruple x);	//	AK
 
 #include "constants.h"
 

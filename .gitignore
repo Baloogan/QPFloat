@@ -1,1 +1,6 @@
 .vs/
+Debug/
+QPFloat/Release/
+QPFloat/x64/
+Release/
+Test/
